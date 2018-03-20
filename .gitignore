@@ -1,0 +1,15 @@
+*.settings
+*.idea
+*.classpath
+*.iml
+*.project
+*.DS_Store
+*.externalToolBuilders
+*.log
+/bin/
+/out/
+/dist/
+/node_modules/
+*.sublime*
+__temp.zip
+npm-debug.log.189617914
